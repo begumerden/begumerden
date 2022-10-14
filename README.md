@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api/top-langs?username=begumerden&theme=blue-green&show_icons=true&line_height=27&layout=compact
+[![Begum's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=begumerden&theme=blue-green&show_icons=true&line_height=27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
